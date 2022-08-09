@@ -1,4 +1,5 @@
 1. Choose restaurant to order pizza.
+1a. Check how good the restaurant is.
 2. Decide what pizza to order.
 3. Call the restaurant.
 4. Wait for the pizza.
